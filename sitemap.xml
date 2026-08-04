@@ -1,21 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/about.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/accessibility.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/careers.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/case-studies.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/contact.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/founder.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/index.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/investors.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/media.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/news.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/platform.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/privacy.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/products.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/research.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/resources.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/responsible-ai.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/sitemap-page.html</loc><changefreq>monthly</changefreq></url>
-  <url><loc>https://hlai-dotcom.github.io/hl-ai-website/terms.html</loc><changefreq>monthly</changefreq></url>
+
+  <url>
+    <loc>https://ccwu20ai.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/products.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/platform.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/case-studies.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/responsible-ai.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/research.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/resources.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/news.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/investors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/founder.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/careers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/media.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/accessibility.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/privacy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://ccwu20ai.com/terms.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
 </urlset>
