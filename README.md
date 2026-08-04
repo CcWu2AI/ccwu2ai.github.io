@@ -1,40 +1,55 @@
 
-# CcWu20.AI Commercial Final 2026
+# CcWu20.AI Official Website — Final Edition 2026
 
-This is the consolidated commercial release. It is designed for GitHub Pages and requires no server.
+## Final pages
+- Home
+- About
+- Products
+- Platform
+- Case Studies
+- Research
+- Responsible AI
+- Careers
+- Founder
+- News
+- Investors
+- Contact
+- Privacy
+- 404
 
-## Included
-- Commercial homepage
-- Company, founder, careers and investors
-- HealthAI, IndustryAI and AgriAI solution pages
-- Enterprise platform and use cases
-- Responsible AI and research
-- Resources and downloadable Employer Brand Book
-- News and media center
-- Commercial contact page
-- Privacy, terms, accessibility, sitemap and 404
-- English / Chinese interface switch
-- Cookie preference notice
-- SEO metadata, robots.txt, sitemap.xml and web manifest
-- Mobile, tablet and desktop layouts
-- Reduced-motion and keyboard accessibility support
+## Final release features
+- Immersive particle hero
+- Native English / Chinese switch
+- Full-screen industry storytelling
+- Enterprise platform architecture
+- Research, founder, investor and newsroom pages
+- Responsive mobile navigation
+- SEO metadata, robots.txt and sitemap.xml
+- Web app manifest
+- Accessibility skip link and reduced-motion support
+- Privacy page and 404 page
 
-## Deployment
+## GitHub Pages deployment
 1. Download and unzip the package.
-2. Open the GitHub repository root.
-3. Choose **Add file → Upload files**.
-4. Upload every file and the complete `assets` folder.
-5. Click **Commit changes**.
-6. Wait 1–3 minutes and refresh the website.
+2. In the repository root, click **Add file → Upload files**.
+3. Upload all HTML files, the `assets` folder, `robots.txt`, `sitemap.xml`, and `site.webmanifest`.
+4. Click **Commit changes**.
+5. Wait 1–3 minutes, then refresh:
+   https://ccwu20ai.com/
 
-## Old files
-The old `css` and `js` folders are not used. The commercial site uses:
-- assets/styles.css
-- assets/script.js
-- assets/logo.svg
+## Repository cleanup
+The old `css` and `js` folders are not used by the final website. The site uses:
+- `assets/styles.css`
+- `assets/script.js`
+- `assets/logo.svg`
 
-## Before public launch
-- Confirm that hello@ccwu20.ai, careers@ccwu20.ai and media@ccwu20.ai exist.
-- Replace any contact addresses that are not active.
-- Review legal, employment, investment and product statements with qualified advisers.
-- Product demonstrations and use cases are illustrative unless supported by formal customer evidence.
+## Before public commercial use
+Replace placeholder contact emails if needed and have legal, privacy, employment and product claims reviewed for the jurisdictions where the company operates.
+
+
+## Repaired release
+- Corrected canonical URLs and social metadata.
+- Added unique page descriptions.
+- Removed duplicate title elements.
+- Corrected robots.txt and sitemap.xml for ccwu20ai.com.
+- Updated the GitHub profile link.

@@ -1,7 +1,6 @@
 {
   "name": "CcWu20.AI",
   "short_name": "CcWu20.AI",
-  "description": "Secure, practical and responsible enterprise AI for essential industries.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#020812",
